@@ -1,0 +1,6 @@
+### Get Hello ###
+GET http://localhost:8000/hello
+//Authorization: Bearer --valor do token--
+
+## Get hello Client ###
+GET http://localhost:9000/client/hello
